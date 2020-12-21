@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="197,87,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="232,154,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="232,222,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="417,292,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="72,88,0,0" TextWrapping="Wrap" Text="Income" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="100,160,0,0" TextWrapping="Wrap" Text="Expenses" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="100,237,0,0" TextWrapping="Wrap" Text="Things price" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="222,299,0,0" TextWrapping="Wrap" Text="You have to save  the money" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="414,91,0,0" TextWrapping="Wrap" Text="Thai Bath / Day" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="415,158,0,0" TextWrapping="Wrap" Text="Thai Bath / Day" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="441,220,0,0" TextWrapping="Wrap" Text="Thai Bath" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="578,299,0,0" TextWrapping="Wrap" Text="Days" VerticalAlignment="Top"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="104,303,0,0" VerticalAlignment="Top" Width="75"/>
+
     </Grid>
 </Window>

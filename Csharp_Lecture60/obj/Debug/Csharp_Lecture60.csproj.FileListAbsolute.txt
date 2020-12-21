@@ -1,0 +1,15 @@
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\bin\Debug\Csharp_Lecture60.exe.config
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\bin\Debug\Csharp_Lecture60.exe
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\bin\Debug\Csharp_Lecture60.pdb
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60.csprojAssemblyReference.cache
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\MainWindow.g.cs
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\App.g.cs
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60_MarkupCompile.cache
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60_MarkupCompile.lref
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\MainWindow.baml
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60.g.resources
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60.Properties.Resources.resources
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60.csproj.GenerateResource.cache
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60.csproj.CoreCompileInputs.cache
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60.exe
+G:\KuroshiSekai\visual studio\Pro\c#_Lecture60\Csharp_Lecture60\Csharp_Lecture60\obj\Debug\Csharp_Lecture60.pdb
